@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% You can download my CV here (Updated at October 1, 2024) %}
+You can download my CV here (Updated at October 1, 2024)
 
 Education
 ======
