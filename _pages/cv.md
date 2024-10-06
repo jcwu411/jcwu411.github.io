@@ -11,25 +11,12 @@ You can download my BioSketch [here](/files/JiachengWu_BioSketch.pdf) (Updated a
 
 Education
 ======
-* Ph.D in Physical Oceanography, Peking University, 2025 (expected)
+* Ph.D in Physical Oceanography, Peking University, 2025.05 (expected)
 * B.S. in Atmospheric Sciences, Peking University, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* None
   
 Skills
 ======
