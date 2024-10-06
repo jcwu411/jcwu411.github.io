@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can download my BioSketch [here](JiachengWu_BioSketch.pdf) (Updated at October 1, 2024)
+You can download my BioSketch [here](/files/JiachengWu_BioSketch.pdf) (Updated at October 1, 2024)
 
 Education
 ======
